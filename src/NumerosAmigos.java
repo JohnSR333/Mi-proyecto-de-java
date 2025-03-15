@@ -18,13 +18,13 @@ public class NumerosAmigos {
            int contadorDivisores = 0;
            int primerDivisor = 0;
            int segundoDivisor = 0;
-           for (int j = 2 ; j < 1 ; j++){
+           for (int j = 2 ; j <= 1 ; j++){
             if (i % j == 0) {
                 contadorDivisores ++;
                 if (contadorDivisores ==1) {
-                    primerDivisor ++;
+                    primerDivisor = j;
                 } else if (contadorDivisores==2) {
-                    segundoDivisor ++;
+                    segundoDivisor = j;
                 } else {
                     break;
                 }              
