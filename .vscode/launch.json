@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "TiposPrimitivos",
+            "request": "launch",
+            "mainClass": "TiposPrimitivos",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
