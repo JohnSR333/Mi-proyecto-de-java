@@ -1,0 +1,231 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Datos",
+            "request": "launch",
+            "mainClass": "Datos",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1",
+            "request": "launch",
+            "mainClass": "Ejercicio1",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio10",
+            "request": "launch",
+            "mainClass": "Ejercicio10",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio11",
+            "request": "launch",
+            "mainClass": "Ejercicio11",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio12",
+            "request": "launch",
+            "mainClass": "Ejercicio12",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio13",
+            "request": "launch",
+            "mainClass": "Ejercicio13",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio14",
+            "request": "launch",
+            "mainClass": "Ejercicio14",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio15",
+            "request": "launch",
+            "mainClass": "Ejercicio15",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicio2",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3",
+            "request": "launch",
+            "mainClass": "Ejercicio3",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4",
+            "request": "launch",
+            "mainClass": "Ejercicio4",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio5",
+            "request": "launch",
+            "mainClass": "Ejercicio5",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio6",
+            "request": "launch",
+            "mainClass": "Ejercicio6",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio7",
+            "request": "launch",
+            "mainClass": "Ejercicio7",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio8",
+            "request": "launch",
+            "mainClass": "Ejercicio8",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio9",
+            "request": "launch",
+            "mainClass": "Ejercicio9",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "EntradaScanner",
+            "request": "launch",
+            "mainClass": "EntradaScanner",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Factorialnum",
+            "request": "launch",
+            "mainClass": "Factorialnum",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Mayordetres",
+            "request": "launch",
+            "mainClass": "Mayordetres",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Menuinteractivo",
+            "request": "launch",
+            "mainClass": "Menuinteractivo",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Miniproyect",
+            "request": "launch",
+            "mainClass": "Miniproyect",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "NumerosAmigos",
+            "request": "launch",
+            "mainClass": "NumerosAmigos",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Numerosespeciales",
+            "request": "launch",
+            "mainClass": "Numerosespeciales",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Numerospares",
+            "request": "launch",
+            "mainClass": "Numerospares",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "PasoPorValor",
+            "request": "launch",
+            "mainClass": "PasoPorValor",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "Tablasmultiplicar",
+            "request": "launch",
+            "mainClass": "Tablasmultiplicar",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "modificacionArray",
+            "request": "launch",
+            "mainClass": "modificacionArray",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        },
+        {
+            "type": "java",
+            "name": "pasoPorReferencia",
+            "request": "launch",
+            "mainClass": "pasoPorReferencia",
+            "projectName": "Mi-proyecto-de-java_265da542"
+        }
+    ]
+}
